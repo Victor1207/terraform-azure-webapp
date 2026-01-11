@@ -1,0 +1,9 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+
+# VSCode / editor
+.vscode/
+*.swp
